@@ -30,7 +30,7 @@ export const projectsData = [
     id: nanoid(),
     img: 'project.jpg',
     title: 'Noahs Arc Project',
-    info: 'Noah`s arc is a community-based organization in Mid-Wester Uganda, that focuses on fighting & eradicating poverty. Worked on this app with one of my friends. ',
+    info: 'Noah`s arc is a community-based organization in Mid-Wester Uganda, that focuses on fighting & eradicating poverty. Worked on this app with one of my friends. This app allows for children to be sponsored by donating monthly or sponsor one of the projects that they are working on in their community. This application has a single repository (mono-repo). Technologies we used on the backend are Nest.js, Postgresql, Typeorm, and Typescript also for the payment method we use stripe. Front-End we used Nuxt.js, Tailwind.css & Veautify for the dashboard. ',
     info2: '',
     url: 'https://noahsarc.org/',
     repo: 'https://github.com/genu/sponsorship', // if no repo, the button will not show up

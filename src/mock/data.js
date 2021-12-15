@@ -28,6 +28,16 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
+    img: 'HevesiJournal.png',
+    title: '',
+    info:
+      'Katie & David wedding photographers and videographers based in Atlanta Georgia.',
+    info2: '',
+    url: 'https://hevesijournal.com/',
+    repo: 'https://github.com/genu/sponsorship', // if no repo, the button will not show up
+  },
+  {
+    id: nanoid(),
     img: 'project.jpg',
     title: 'Noahs Arc Project',
     info:
